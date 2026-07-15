@@ -1,0 +1,9 @@
+﻿.venv/
+__pycache__/
+*.pyc
+megasena_cache.parquet
+.streamlit/secrets.toml
+app001.py
+appwold.py
+quantum_bayes_megasena_corrigido.py
+requirements_megasena.txt
